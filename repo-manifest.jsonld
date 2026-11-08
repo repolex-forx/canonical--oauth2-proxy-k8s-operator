@@ -8,7 +8,8 @@
     {
       "@id": "https://repolex.ai/r/canonical/oauth2-proxy-k8s-operator/commit/933570c2547c811cb29a86bd2cd5cf9809b152f6",
       "git:hexsha": "933570c2547c811cb29a86bd2cd5cf9809b152f6",
-      "repolex:parseStatus": "ast_complete"
+      "repolex:parseStatus": "parsed",
+      "repolex:parsedAt": "2026-11-08T15:22:48.008580+00:00"
     },
     {
       "@id": "https://repolex.ai/r/canonical/oauth2-proxy-k8s-operator/commit/4327b55ebae87a4f5ef2ac2b05eb38f40e0c000f",
