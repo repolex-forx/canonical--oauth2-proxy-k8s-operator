@@ -1,0 +1,7 @@
+[2026-11-08T15:21:15Z] === AST ITERATION 1 START | repo=canonical/oauth2-proxy-k8s-operator sha=933570c2 ===
+[2026-11-08T15:21:15Z] [iter=1] PHASE START: ast repo=canonical/oauth2-proxy-k8s-operator sha=933570c2
+[2026-11-08T15:21:15Z] [iter=1] Building AST aggregate chunks
+[2026-11-08T15:21:35Z] [iter=1] AST chunks built count=1 triples=256975
+[2026-11-08T15:21:35Z] [iter=1] AST .complete marker written path=/home/runner/work/forx/forx/storage/aggregate/ast/933570c2547c811cb29a86bd2cd5cf9809b152f6/.complete
+[2026-11-08T15:21:35Z] [iter=1] PHASE END: ast elapsed_s=20 elapsed_min=0.3
+[2026-11-08T15:21:35Z] [iter=1] Wrote .next-action.json next_action=enrich path=/home/runner/work/forx/forx/storage/aggregate/.next-action.json
